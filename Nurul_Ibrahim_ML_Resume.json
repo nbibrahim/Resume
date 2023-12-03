@@ -28,8 +28,8 @@
       "visible": false
     },
     "page": {
-      "format": "a4",
-      "margin": 18,
+      "format": "letter",
+      "margin": 8,
       "options": {
         "breakLine": true,
         "pageNumbers": false
@@ -67,17 +67,15 @@
     "template": "onyx",
     "typography": {
       "font": {
-        "size": 12,
-        "family": "IBM Plex Serif",
+        "size": 12.75,
+        "family": "IBM Plex Sans",
         "subset": "latin",
         "variants": [
-          "regular",
-          "italic",
-          "600"
+          "regular"
         ]
       },
       "hideIcons": false,
-      "lineHeight": 1,
+      "lineHeight": 0.95,
       "underlineLinks": true
     }
   },
@@ -101,7 +99,7 @@
             "description": "",
             "date": "",
             "location": "",
-            "summary": "<p><strong>Key Presenter</strong> -</p><ul><li><p><strong>CUPC'2023</strong> hosted by <strong>CAP</strong> in Waterloo (Presented project on Learning of Turbulence)</p></li><li><p><strong>AUPAC'2023</strong> hosted by <strong>Science Atlantic</strong> in Halifax (Presented project on Acoustic Fish Detection Solutions)</p></li><li><p><strong>AWC'2022</strong> hosted by <strong>CAA</strong> in St. John's (Presented research on Acoustic Fish Detection Solutions)</p></li></ul>",
+            "summary": "<p style=\"text-align: justify\"><strong>Key Presenter -</strong></p><p><strong>CUPC'2023</strong> hosted by <strong>CAP </strong>in Waterloo (Presented project on Learning of Turbulence)</p><p><strong>AUPAC'2023</strong> hosted by <strong>Science Atlantic</strong> in Halifax (Presented project on Acoustic Fish Detection Solutions)</p><p><strong>AWC'2022 </strong>hosted by <strong>CAA</strong> in St. John's (Presented research on Acoustic Fish Detection Solutions)</p>",
             "keywords": [],
             "url": {
               "label": "",
@@ -123,7 +121,7 @@
             "description": "",
             "date": "",
             "location": "",
-            "summary": "<p><strong>Languages:</strong> Python, C/C++, MATLAB, JavaScript, HTML/CSS, SQL, Bash, R</p><p><strong>Frameworks &amp; Libraries: </strong>TensorFlow, PyTorch, Pandas, NumPy, SciPy, Matplotlib, Flask, React.js/Node.js, scikit-learn</p><p><strong>Tools &amp; Tech:</strong> Git/GitHub, Linux, Docker, CUDA, OpenAI API, LangChain, HuggingFace, MLFlow, MongoDB, MySQL, SLURM, Kubernetes, MPI/OpenMP, OpenFOAM, GCP, DRAC, GitLab CI, VSCode, JupyterLab</p>",
+            "summary": "<ul><li><p><strong>Languages:</strong> Python, C/C++, MATLAB, JavaScript, HTML/CSS, SQL, Bash, R</p></li><li><p><strong>Frameworks &amp; Libraries: </strong>TensorFlow, PyTorch, Pandas, NumPy, SciPy, Matplotlib, Flask, React.js/Node.js, scikit-learn</p></li><li><p><strong>Tools &amp; Tech:</strong> Git/GitHub, Linux, Docker, CUDA, OpenAI API, LangChain, HuggingFace, MLFlow, MongoDB, MySQL, SLURM, Kubernetes, MPI/OpenMP, OpenFOAM, GCP, DRAC, GitLab CI, VSCode, JupyterLab</p></li></ul>",
             "keywords": [],
             "url": {
               "label": "",
@@ -146,7 +144,7 @@
       "id": "summary",
       "name": "Summary",
       "columns": 1,
-      "content": "<p>Multi-disciplinary <strong>Software Developer </strong>and <strong>Physicist </strong>specializing in <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>Cloud Development.</strong> Founder of an <strong>AI Startup </strong>and developer of several scientific and consumer-based solutions in ML, Data analysis, and Cloud.</p>",
+      "content": "<p>Multi-disciplinary <strong>Software Developer </strong>and <strong>Physicist </strong>specializing in <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>Cloud Development.</strong> Founder of an <strong>AI Startup </strong>and developer of several scientific and consumer-based solutions in ML, Data analysis, and Cloud sec.</p>",
       "visible": true
     },
     "profiles": {
@@ -301,16 +299,16 @@
         },
         {
           "id": "s79p31pgqsfpdc037mj8pmjh",
-          "url": {
-            "href": "",
-            "label": ""
-          },
-          "date": "Apr. 2023 - Oct. 2023",
-          "company": "Machine Learning Researcher",
-          "summary": "<ul><li><p>Developed and implemented deep-learning models <em>(RNN, CNN, LSTM, PINN, GAN) </em>utilizing <em>CUDA</em> and Cloud services to decipher and explain complex turbulent jet behavior.</p></li><li><p>Mastered data modeling and statistical analysis to optimize and fine-tune the models, achieving superior insights in turbulent systems; utilized data visualization tools to understand hidden physics.</p></li><li><p>Integrated ML models with computational fluid dynamics (CFD) methods to deliver key insights through presentations and scientific papers, introducing new tools to the community.</p></li></ul>",
           "visible": true,
+          "company": "Machine Learning Researcher",
+          "position": "Memorial University of Newfoundland",
           "location": "NL, Canada",
-          "position": "Memorial University of Newfoundland"
+          "date": "Apr. 2023 - Oct. 2023",
+          "summary": "<ul><li><p>Developed and implemented deep-learning models <em>(RNN, CNN, LSTM, PINN, GAN) </em>utilizing <em>CUDA</em> and Cloud services to successfully decipher and explain the complex behavior of turbulent jets.</p></li><li><p>Mastered data modeling and statistical analysis to optimize and fine-tune the models, achieving superior insights in turbulent systems; utilized data visualization tools to understand hidden physics.</p></li><li><p>Integrated ML models with computational fluid dynamics (CFD) methods to deliver key insights through presentations and scientific papers, introducing new tools to the community.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
         },
         {
           "id": "ojjm4jwiqveuczysjox4o2v5",
@@ -385,7 +383,7 @@
         }
       ],
       "columns": 1,
-      "visible": true
+      "visible": false
     }
   }
 }
