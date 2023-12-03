@@ -1,0 +1,391 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://nurulnetworks.ca",
+      "label": "Portfolio"
+    },
+    "name": "Nurul Bin Ibrahim",
+    "email": "bibrahim@mun.ca",
+    "phone": "+1 (709) 697-6559",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "St. John's, NL, Canada",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#e11d48",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "projects",
+          "experience",
+          "education",
+          "volunteer",
+          "custom.i6moz9hdu976fqw2yjd6crrs",
+          "skills",
+          "custom.c0oa0xofwxnoz81xj8ezc6yl",
+          "references"
+        ],
+        [
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "onyx",
+    "typography": {
+      "font": {
+        "size": 12,
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "custom": {
+      "c0oa0xofwxnoz81xj8ezc6yl": {
+        "id": "c0oa0xofwxnoz81xj8ezc6yl",
+        "name": "Conferences",
+        "items": [
+          {
+            "id": "sps4e2wisi5scl2wdhenz4wl",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p><strong>Key Presenter</strong> -</p><ul><li><p><strong>CUPC'2023</strong> hosted by <strong>CAP</strong> in Waterloo (Presented project on Learning of Turbulence)</p></li><li><p><strong>AUPAC'2023</strong> hosted by <strong>Science Atlantic</strong> in Halifax (Presented project on Acoustic Fish Detection Solutions)</p></li><li><p><strong>AWC'2022</strong> hosted by <strong>CAA</strong> in St. John's (Presented research on Acoustic Fish Detection Solutions)</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ],
+        "columns": 1,
+        "visible": true
+      },
+      "i6moz9hdu976fqw2yjd6crrs": {
+        "id": "i6moz9hdu976fqw2yjd6crrs",
+        "name": "Skills",
+        "items": [
+          {
+            "id": "nrbknrxgomwqfucvb2k9n9o1",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p><strong>Languages:</strong> Python, C/C++, MATLAB, JavaScript, HTML/CSS, SQL, Bash, R</p><p><strong>Frameworks &amp; Libraries: </strong>TensorFlow, PyTorch, Pandas, NumPy, SciPy, Matplotlib, Flask, React.js/Node.js, scikit-learn</p><p><strong>Tools &amp; Tech:</strong> Git/GitHub, Linux, Docker, CUDA, OpenAI API, LangChain, HuggingFace, MLFlow, MongoDB, MySQL, SLURM, Kubernetes, MPI/OpenMP, OpenFOAM, GCP, DRAC, GitLab CI, VSCode, JupyterLab</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ],
+        "columns": 1,
+        "visible": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills1",
+      "items": [],
+      "columns": 1,
+      "visible": false
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>Multi-disciplinary <strong>Software Developer </strong>and <strong>Physicist </strong>specializing in <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>Cloud Development.</strong> Founder of an <strong>AI Startup </strong>and developer of several scientific and consumer-based solutions in ML, Data analysis, and Cloud.</p>",
+      "visible": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "nm8eb8fzk3qg614j4pp5dac2",
+          "url": {
+            "href": "https://www.linkedin.com/in/nurulbibrahim/",
+            "label": ""
+          },
+          "icon": "linkedin",
+          "network": "LinkedIn",
+          "visible": true,
+          "username": "nurulbibrahim"
+        },
+        {
+          "id": "zw7jqszryvcsisa8nf2veaon",
+          "url": {
+            "href": "https://github.com/nbibrahim",
+            "label": ""
+          },
+          "icon": "github",
+          "network": "GitHub",
+          "visible": true,
+          "username": "nbibrahim"
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "ea98zt0hb7bodncw8juqlg7p",
+          "visible": true,
+          "name": "UNIK - AI Academic Advisor",
+          "description": "Built a web-app with production-grade AI systems that provide on-demand academic guidance solutions to educational institutes. Backed up by the MCE and is currently deployed for MUN students.",
+          "date": "",
+          "summary": "<p></p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://www.unikai.ca/"
+          }
+        },
+        {
+          "id": "va0n9u9myeha4u7ltyk317sk",
+          "url": {
+            "href": "https://github.com/nbibrahim/The_Nurul_Network",
+            "label": "Github Repo"
+          },
+          "date": "",
+          "name": "The Nurul Network",
+          "summary": "<p></p>",
+          "visible": true,
+          "keywords": [],
+          "description": "Developed an automated deep-learning solution that deciphers the behavior of turbulent systems with its predictive and analytic capability. This provided critical insights into solving turbulence and the path to new solutions. Part of my Honors thesis."
+        },
+        {
+          "id": "w51962mxfo251oudn5tr31zi",
+          "url": {
+            "href": "https://github.com/nbibrahim/DocChatAI",
+            "label": "Github Repo"
+          },
+          "date": "",
+          "name": "AI mini-projects",
+          "summary": "<p></p>",
+          "visible": true,
+          "keywords": [],
+          "description": "DocChatAI, FAQGenius, RAG Implementation, Transformers, CUDA Neural Networks, AIris, ImageClassification, and more on GitHub."
+        },
+        {
+          "id": "ribnf3zj9kzj5iy274l1g8dl",
+          "url": {
+            "href": "https://imerit.ocean.dal.ca/",
+            "label": ""
+          },
+          "date": "",
+          "name": "Fish Detection Software",
+          "summary": "<p></p>",
+          "visible": true,
+          "keywords": [],
+          "description": "Collaborated with scientists and iMERIT to develop a fish detection solution for acoustic profilers, creating a new and effective tool for marine scientists, and providing innovative ways to make use of existing data."
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "foxk0igpfh1n01jg6o4rbnac",
+          "visible": true,
+          "institution": "Memorial University of Newfoundland",
+          "studyType": "GPA = 3.6 /4.0",
+          "area": "",
+          "score": "B.Sc. in Physics (Honors)",
+          "date": "April 2024",
+          "summary": "<ul><li><p>Secretary and Ex-Vice President of the Physics and Physical Oceanography Society (PAPOS).</p></li><li><p>Funded by the Dr. Hugh J. Anderson Senior Scholarship 2023-2024.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "ya011ox1l8vhtelb7uneuvpm",
+          "visible": true,
+          "company": "Cloud Simulation Developer",
+          "position": "Memorial University of Newfoundland",
+          "location": "NL, Canada",
+          "date": "Sept. 2023 – Present",
+          "summary": "<ul><li><p>Leading the development of a fluid simulation software on <em>HPC</em> clusters (<em>DRAC, GCP</em>) with <em>OpenFOAM</em>, improving the accuracy and efficiency in analyzing turbulence.</p></li><li><p>Developing <em>CUDA</em>-based GPU programs and automating cloud-based workflows with <em>Kubernetes </em>and <em>Docker</em>, boosting performance and deployment efficiency.</p></li><li><p>Conducting thorough data analysis and creating interactive visualization using <em>Python</em> and <em>R</em>. Implementing performance benchmarking and optimizations with <em>Nvidia Nsight</em> to refine analysis quality.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "s79p31pgqsfpdc037mj8pmjh",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Apr. 2023 - Oct. 2023",
+          "company": "Machine Learning Researcher",
+          "summary": "<ul><li><p>Developed and implemented deep-learning models <em>(RNN, CNN, LSTM, PINN, GAN) </em>utilizing <em>CUDA</em> and Cloud services to decipher and explain complex turbulent jet behavior.</p></li><li><p>Mastered data modeling and statistical analysis to optimize and fine-tune the models, achieving superior insights in turbulent systems; utilized data visualization tools to understand hidden physics.</p></li><li><p>Integrated ML models with computational fluid dynamics (CFD) methods to deliver key insights through presentations and scientific papers, introducing new tools to the community.</p></li></ul>",
+          "visible": true,
+          "location": "NL, Canada",
+          "position": "Memorial University of Newfoundland"
+        },
+        {
+          "id": "ojjm4jwiqveuczysjox4o2v5",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Apr. 2022 - Oct. 2022",
+          "company": "Acoustic Data Analyst",
+          "summary": "<ul><li><p>Collaborated with Ocean Scientists to develop a fish detection solution for acoustic profilers (MATLAB, Python), providing crucial oceanic and marine life insights.</p></li><li><p>Managed pre-processing, analysis, and visualization of acoustic datasets(<em>Pandas, Numpy, Matplotlib, Seaborn</em>), enhancing data clarity and representability.</p></li><li><p>Ensured 100% data accuracy through rigorous quality assurance; optimized research equipment for peak operational efficiency.</p></li></ul>",
+          "visible": true,
+          "location": "NL, Canada",
+          "position": "Memorial University of Newfoundland"
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [
+        {
+          "id": "x5qpt3wtjrls5qvu6zqp001u",
+          "url": {
+            "href": "https://www.getcoding.ca/",
+            "label": ""
+          },
+          "name": "Jan Mertlik",
+          "summary": "",
+          "visible": true,
+          "description": "CEO at Get Coding"
+        }
+      ],
+      "columns": 1,
+      "visible": false
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "k7kcveq4gkow3k9yub0js8e8",
+          "visible": true,
+          "name": "Google Data Analytics Certificate",
+          "issuer": "",
+          "date": "In Progress (4/8)",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tpzgcfbyczhh6w8d2sua4i1p",
+          "visible": true,
+          "name": "Google Cloud Engineer",
+          "issuer": "",
+          "date": "In Progress (2/6)",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    }
+  }
+}
